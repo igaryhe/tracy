@@ -1,0 +1,7 @@
+.{
+    .name = .tracy,
+    .version = "0.0.2+0.13.1",
+    .minimum_zig_version = "0.16.0",
+    .paths = .{ "public", "build.zig", "build.zig.zon" },
+    .fingerprint = 0x255a89ee3f851b94,
+}
